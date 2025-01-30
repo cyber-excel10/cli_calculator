@@ -1,3 +1,4 @@
+Title of Project:CLI Calculator.
 *Welcome to Excel2024 Calculator! This is a simple command-line calculator written in Rust that can perform a variety of mathematical operations. Whether you're looking to do basic arithmetic or more advanced operations like trigonometry and logarithms, this calculator can help.
 The features of this calculator are:
 
