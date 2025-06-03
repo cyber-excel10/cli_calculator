@@ -31,7 +31,7 @@ You Can Input Your Calculations Or If You Want To Quit You Can Input 'Exit' To C
 6.Logarithm of Non-Positive Numbers: Trying to take the logarithm of a zero or negative number will result in:Please Consider Removing Negative Value When Dealing With Logarithm.
 
 *If in case you want to run or install this cli calculator,please follow the steps below:
-.Clone this repository to your local machine:git clone https://github.com/your-username/cli_calculator.git
+.Clone this repository to your local machine:git clone https://github.com/cyber-excel10/cli_calculator
 .Then to navigate to the project directory you will input: cd cli_calculator
 .To run the project after navigating to the project directory you will input:cargo run
 
